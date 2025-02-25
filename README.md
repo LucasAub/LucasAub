@@ -47,10 +47,17 @@
 
 <h3 align="left">📊 GitHub Stats & Activity:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasaub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="padding: 10px;" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasaub&theme=tokyonight&hide_border=true" alt="Streak Stats" style="padding: 10px;" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasaub&theme=tokyonight" alt="Profile Details" style="padding: 10px;" />
+  <div style="padding: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasaub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </div>
+  <div style="padding: 10px;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasaub&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  </div>
+  <div style="padding: 10px;">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasaub&theme=tokyonight" alt="Profile Details" />
+  </div>
 </p>
+
 
 ---
 
