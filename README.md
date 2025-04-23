@@ -13,7 +13,7 @@
 - 👥 Contributing to the **[Algosup Organization](https://github.com/ALGOSUP)**  
 - 🌱 Constantly learning and improving my skills in **web development, mobile apps, and backend systems**  
 - 💬 Ask me about **React, Node.js, Firebase, Flutter, and problem-solving strategies**  
-- 📫 Reach me at **lucas.aubard@algosup.com**  
+- 📫 Reach me at **aubardlucas@gmail.com**  
 
 ---
 
